@@ -19,6 +19,9 @@ covid-19 awareness website
 # links
 Checkout the Website by clicking here ! 👉https://c-19awareness.azurewebsites.net/
 
+# Demo 
+Click the link here to check the demo 👉https://drive.google.com/file/d/1t5QsR8zdqEsIbYX1h7Xe2-9SH808m4zG/view?usp=share_link
+
 
 # Note 
 this is a prototype model and was designed using microsoft azure as a project 
