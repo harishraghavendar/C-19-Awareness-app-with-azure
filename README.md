@@ -11,10 +11,9 @@ this website will be a one for all hub for all the details people needed to know
 # Azure Services
 The Azure services used in this project are : 
 1. Azure WebApp
-2. Azure cloud services
 
 # Azure Webapp
-i used Azure webapp to generate a website link and uploaded the required files using git (the files can be found in the repository) to display the final result of the 
+I used Azure webapp to generate a website link and uploaded the required files using git (all the  files can be found in the repository) to display the final result of the 
 covid-19 awareness website 
 
 # links
