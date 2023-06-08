@@ -11,10 +11,13 @@ this website will be a one for all hub for all the details people needed to know
 # Azure Services
 The Azure services used in this project are : 
 1. Azure WebApp
+2. Azure bot Service 
 
 # Azure Webapp
-I used Azure webapp to generate a website link and uploaded the required files using git (all the  files can be found in the repository) to display the final result of the 
-covid-19 awareness website 
+I used Azure webapp to generate a website link and uploaded the required files using git (all the  files can be found in the repository) to display the final result of the covid-19 awareness website 
+
+# Azure Bot Service 
+The azure bot service is used to provide the user with live question and answer with the bot regarding Covid-19 and to know all the necessary things they have to know about the Covid-19 pandemic 
 
 # links
 Checkout the Website by clicking here ! 👉https://c-19awareness.azurewebsites.net/
