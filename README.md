@@ -23,6 +23,12 @@ The azure bot service is used to provide the user with live question and answer 
 # Azure container
 The Azure Storage container is used to contain the codes and css scripts for the Covid19 awareness app 
 
+# Procedure Screenshots 
+![image](https://github.com/harishraghavendar/C-19-Awareness-app-with-azure/assets/104668397/c8ccfad4-3e3f-4478-bfae-b7b23bd3e1a3)
+![image](https://github.com/harishraghavendar/C-19-Awareness-app-with-azure/assets/104668397/2972d3c5-f864-47b7-bab1-842112cfe2c6)
+![image](https://github.com/harishraghavendar/C-19-Awareness-app-with-azure/assets/104668397/31a65d59-bd5f-4f26-8eec-9af82687c102)
+
+
 # links
 Checkout the Website by clicking here ! 👉https://covidawareness.z29.web.core.windows.net/
 
